@@ -53,9 +53,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsc713&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsc713&show_icons=true&theme=ambient_gradient)
-
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsc7134)](https://solved.ac/lsc7134/)
